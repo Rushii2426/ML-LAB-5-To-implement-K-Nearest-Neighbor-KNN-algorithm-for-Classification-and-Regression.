@@ -1,0 +1,2 @@
+# ML-LAB-5-To-implement-K-Nearest-Neighbor-KNN-algorithm-for-Classification-and-Regression.
+This repository contains Lab 5 on the K-Nearest Neighbours (KNN) algorithm for classification and regression using the diabetes dataset. It covers data preprocessing, median imputation, feature scaling, data visualization, model evaluation, cross-validation, and hyperparameter tuning using Python and Scikit-learn.
